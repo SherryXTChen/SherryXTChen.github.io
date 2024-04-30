@@ -101,7 +101,7 @@ layout: home
 </div>
 
 
-# Research
+## Research
 
 <div class="research-item">
   <div class="research-thumb">
