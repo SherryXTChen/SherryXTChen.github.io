@@ -27,7 +27,8 @@ url: "https://SherryXTChen.github.io" # the base hostname & protocol for your si
 twitter_username: Sherry_X_Chen
 github_username:  SherryXTChen
 
-author: Sherry X Chen
+author:
+  name: Sherry X Chen
   twitter: Sherry_X_Chen
 
 # Build settings
