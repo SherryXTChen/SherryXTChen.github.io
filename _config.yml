@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sherry X Chen ( Xiaotong Chen )
+title: Sherry X. Chen ( Xiaotong Chen )
 email: xchen774@ucsb.edu
 description: >- # this means to ignore newlines until "baseurl:"
   CS Ph.D. Student at UCSB | Machine Learning, Computer Vision, Human-Computer Interaction
@@ -28,7 +28,7 @@ twitter_username: Sherry_X_Chen
 github_username:  SherryXTChen
 
 author:
-  name: Sherry X Chen
+  name: Sherry X. Chen
   twitter: Sherry_X_Chen
 
 # Build settings
@@ -49,7 +49,7 @@ webmaster_verifications:
   google: 8Dh6MWaF8t7ZoSPuy4xOu_eo-tCbUHF4Wi6WPltWkdM
 
 social:
-  name: Sherry X Chen
+  name: Sherry X. Chen
   links:
     - https://www.linkedin.com/in/sherry-c-194295146
     - https://scholar.google.com/citations?user=Lb5eUYMAAAAJ

@@ -88,7 +88,7 @@ layout: home
     Interaction, with a primary focus on image generation and its applications.
   </div>
   <div>
-    <img src="images/sherry.jpeg" alt="Profile photo of Sherry X Chen" class="profile">
+    <img src="images/sherry.jpeg" alt="Profile photo of Sherry X. Chen" class="profile">
     <div class="contact-info">
       Email: xchen774 [at] ucsb [dot] edu
       <br>
@@ -109,7 +109,7 @@ layout: home
   </div>
   <div class="research-text">
     <p><strong>TiNO-Edit: Timestep and Noise Optimization for Robust Diffusion-Based Image Editing</strong></p>
-    <p><span class="underline">Sherry X Chen</span>, Yaron Vaxman, Elad Ben Baruch, David Asulin, Aviad Moreshet, Kuo-Chin Lien, Misha Sra, Pradeep Sen</p>
+    <p><span class="underline">Sherry X. Chen</span>, Yaron Vaxman, Elad Ben Baruch, David Asulin, Aviad Moreshet, Kuo-Chin Lien, Misha Sra, Pradeep Sen</p>
     <p class="conference">CVPR, 2024</p>
     <p><a href="https://arxiv.org/abs/2404.11120">PDF</a> | <a href="https://github.com/SherryXTChen/TiNO-Edit">Code</a></p>
   </div>
@@ -121,7 +121,7 @@ layout: home
   </div>
   <div class="research-text">
     <p><strong>EChat: An Emotion-Aware Adaptive UI for a Messaging App</strong></p>
-    <p>Radha Kumaran, Viral Niraj Doshi, <span class="underline">Sherry X Chen</span>, Avinash Aji Nargund, Tobias Höllerer, Misha Sra</p>
+    <p>Radha Kumaran, Viral Niraj Doshi, <span class="underline">Sherry X. Chen</span>, Avinash Aji Nargund, Tobias Höllerer, Misha Sra</p>
     <p class="conference">UIST, 2023</p>
     <p><a href="https://dl.acm.org/doi/10.1145/3586182.3616698">PDF</a></p>
   </div>
@@ -133,7 +133,7 @@ layout: home
   </div>
   <div class="research-text">
     <p><strong>Pair DETR: Toward Faster Convergent DETR</strong></p>
-    <p>Seyed Mehdi Iranmanesh, <span class="underline">Sherry X Chen</span>, Kuo-Chin Lien</p>
+    <p>Seyed Mehdi Iranmanesh, <span class="underline">Sherry X. Chen</span>, Kuo-Chin Lien</p>
     <p class="conference">ICASSP, 2023</p>
     <p><a href="https://ieeexplore.ieee.org/document/10095608">PDF</a></p>
   </div>
