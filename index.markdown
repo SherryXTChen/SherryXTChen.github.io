@@ -105,6 +105,18 @@ layout: home
 
 <div class="research-item">
   <div class="research-thumb">
+    <img src="images/aidappeal.png" alt="Thumbnail for AID-AppEAL">
+  </div>
+  <div class="research-text">
+    <p><strong>AID-AppEAL: Automatic Image Dataset and Algorithm for Content Appeal Enhancement and Assessment Labeling</strong></p>
+    <p><span class="underline">Sherry X. Chen</span>, Yaron Vaxman, Elad Ben Baruch, David Asulin, Aviad Moreshet, Misha Sra, Pradeep Sen</p>
+    <p class="conference">ECCV, 2024</p>
+    <p><a href="https://arxiv.org/abs/2407.05546v1">PDF</a> | <a href="https://github.com/SherryXTChen/AID-Appeal">Code</a></p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-thumb">
     <img src="images/tinoedit.png" alt="Thumbnail for TiNO-Edit">
   </div>
   <div class="research-text">
