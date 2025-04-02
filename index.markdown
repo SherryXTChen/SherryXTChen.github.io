@@ -85,7 +85,7 @@ layout: home
 
     <br><br>
     I am broadly interested in Machine Learning, Computer Vision, and Human-Computer 
-    Interaction, with a primary focus on image generation and its applications.
+    Interaction, with a primary focus on multi-modal image analysis and generation (GenAI).
   </div>
   <div>
     <img src="images/sherry.jpeg" alt="Profile photo of Sherry X. Chen" class="profile">
