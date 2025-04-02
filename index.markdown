@@ -94,8 +94,7 @@ layout: home
       <br>
       <a href="https://www.linkedin.com/in/sherry-x-chen">LinkedIn</a> | 
       <a href="https://scholar.google.com/citations?user=Lb5eUYMAAAAJ">Google Scholar</a> | 
-      <a href="https://github.com/SherryXTChen">GitHub</a> | 
-      <a href="https://twitter.com/Sherry_X_Chen">Twitter</a>
+      <a href="https://github.com/SherryXTChen">GitHub</a>
     </div>
   </div>
 </div>
