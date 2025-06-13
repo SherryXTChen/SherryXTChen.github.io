@@ -97,6 +97,8 @@ layout: home
     <div class="contact-info">
       Email: xchen774 [at] ucsb [dot] edu
       <br>
+      <a href="https://drive.google.com/file/d/1o2ospTcEpyxMF2vC7ZyA0M9dDfLUR8c5/view?usp=drivesdk">Resume</a> |
+      <a href="https://drive.google.com/file/d/1qLmHvOtFShPpIPZ2KX5wZwPIEsrw0fPG/view?usp=drivesdk">CV</a> |
       <a href="https://www.linkedin.com/in/sherry-x-chen">LinkedIn</a> | 
       <a href="https://scholar.google.com/citations?user=Lb5eUYMAAAAJ">Google Scholar</a> | 
       <a href="https://github.com/SherryXTChen">GitHub</a>
