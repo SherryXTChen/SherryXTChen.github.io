@@ -111,6 +111,18 @@ layout: home
 
 <div class="research-item">
   <div class="research-thumb">
+    <img src="images/adiee.png" alt="Thumbnail for ADIEE">
+  </div>
+  <div class="research-text">
+    <p><strong>ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation</strong></p>
+    <p><span class="underline">Sherry X. Chen</span>, Yi Wei, Luowei Zhou, Suren Kumar</p>
+    <p class="conference">ICCV 2025</p>
+    <p><a>PDF & Code (Coming Soon)</a></p>
+  </div>
+</div>
+
+<div class="research-item">
+  <div class="research-thumb">
     <img src="images/instructclip.png" alt="Thumbnail for Instruct-CLIP">
   </div>
   <div class="research-text">
