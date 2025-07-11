@@ -117,7 +117,7 @@ layout: home
     <p><strong>ADIEE: Automatic Dataset Creation and Scorer for Instruction-Guided Image Editing Evaluation</strong></p>
     <p><span class="underline">Sherry X. Chen</span>, Yi Wei, Luowei Zhou, Suren Kumar</p>
     <p class="conference">ICCV 2025</p>
-    <p><a>PDF & Code (Coming Soon)</a></p>
+    <p><a href="https://arxiv.org/abs/2507.07317">PDF</a> | <a>PDF & Code (Coming Soon)</a></p>
   </div>
 </div>
 
