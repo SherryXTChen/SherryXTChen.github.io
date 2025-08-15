@@ -126,7 +126,7 @@ layout: home
     <img src="images/instructclip.png" alt="Thumbnail for Instruct-CLIP">
   </div>
   <div class="research-text">
-    <p><strong>InstructCLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning</strong></p>
+    <p><strong>Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning</strong></p>
     <p><span class="underline">Sherry X. Chen</span>, Misha Sra, Pradeep Sen</p>
     <p class="conference">CVPR 2025</p>
     <p><a href="https://arxiv.org/abs/2503.18406">PDF</a> | <a href="https://github.com/SherryXTChen/Instruct-CLIP">Code</a></p>
