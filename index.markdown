@@ -86,7 +86,7 @@ layout: home
     working on data mining for autonomous driving using vision-language models (VLMs). 
 
     <br><br>
-    I recently earned my Ph.D. in Computer Science from UC Santa Barbara, where I was co-advised by 
+    I earned my Ph.D. in Computer Science from UC Santa Barbara, where I was co-advised by 
     <a href="https://web.ece.ucsb.edu/~psen/">Prof. Pradeep Sen</a> and 
     <a href="https://sites.cs.ucsb.edu/~sra/index.html">Prof. Misha Sra</a>. I also hold double B.S. degrees in 
     Computer Science and Applied & Computational Mathematical Sciences (ACMS) from the 
