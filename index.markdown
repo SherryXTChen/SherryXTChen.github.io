@@ -99,7 +99,7 @@ layout: home
   <div>
     <img src="images/sherry.jpeg" alt="Profile photo of Sherry X. Chen" class="profile">
     <div class="contact-info">
-      Email: sherry [dot] chen [at] motional [dot] com
+      Email: sxchen239 [at] gmail [dot] com
       <br>
       <a href="https://drive.google.com/file/d/1o2ospTcEpyxMF2vC7ZyA0M9dDfLUR8c5/view?usp=drivesdk">Resume</a> |
       <a href="https://drive.google.com/file/d/1qLmHvOtFShPpIPZ2KX5wZwPIEsrw0fPG/view?usp=drivesdk">CV</a> |
