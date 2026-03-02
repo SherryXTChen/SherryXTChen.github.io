@@ -102,7 +102,7 @@ layout: home
       Email: sxchen239 [at] gmail [dot] com
       <br>
       <a href="https://drive.google.com/file/d/1o2ospTcEpyxMF2vC7ZyA0M9dDfLUR8c5/view?usp=drivesdk">Resume</a> |
-      <a href="https://drive.google.com/file/d/1qLmHvOtFShPpIPZ2KX5wZwPIEsrw0fPG/view?usp=drivesdk">CV</a> |
+      <!-- <a href="https://drive.google.com/file/d/1qLmHvOtFShPpIPZ2KX5wZwPIEsrw0fPG/view?usp=drivesdk">CV</a> | -->
       <a href="https://www.linkedin.com/in/sherry-x-chen">LinkedIn</a> | 
       <a href="https://scholar.google.com/citations?user=ijlvzXsAAAAJ">Google Scholar</a> | 
       <a href="https://github.com/SherryXTChen">GitHub</a>
